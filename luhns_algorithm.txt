@@ -1,0 +1,5 @@
+1. Double every second digit from right to left, if the doubled number is 2 digits, split them.
+2. Add all the single digits from step 1.
+3. Add all the odd numbered digits from left to right.
+4. Sum the results from step 3 and 4.
+5. If step 4 is divisible by 10, the card number is valid.
